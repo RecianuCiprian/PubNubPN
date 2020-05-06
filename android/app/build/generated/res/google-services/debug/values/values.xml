@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">19839348018-piomtu5paj13b3q8rbjkdmtmb49dehs2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://pushnotificationonesigna-18488.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">19839348018</string>
+    <string name="google_api_key" translatable="false">AIzaSyBXa-T42CacCV_AYobFcje--9xv4W9QJ2Y</string>
+    <string name="google_app_id" translatable="false">1:19839348018:android:7058d3aa6079f7c24e7b2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXa-T42CacCV_AYobFcje--9xv4W9QJ2Y</string>
+    <string name="google_storage_bucket" translatable="false">pushnotificationonesigna-18488.appspot.com</string>
+    <string name="project_id" translatable="false">pushnotificationonesigna-18488</string>
+</resources>

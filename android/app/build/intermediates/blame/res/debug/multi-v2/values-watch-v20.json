@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ciprian.recianu/Desktop/Learning/PushNotificationPubNub/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/ciprian.recianu/.gradle/caches/transforms-2/files-2.1/592e4b34b9f59fda9950c73fe0fef090/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
